@@ -1,0 +1,28 @@
+name: Woodshed Agency Thoughts
+favicon: null
+layout_spectrum: 0.8993822776246816
+typography_spectrum: 0.4198011059779674
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.25259833224117756
+  lightness: 0.7671112029347569
+  saturation: 0.3819610809441656
+  rhythmicContrast: 0.7325715653132647
+purpose: []
